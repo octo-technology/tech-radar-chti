@@ -1,0 +1,156 @@
+[
+  {
+    "name": "TDD",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "BDD",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Pair programming",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Ensemble (mob) programming",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Agilité",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "DDD",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "GCP",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Github actions",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Terraform",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Cadrage produit",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Accelerate",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Sociocratie",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Chat GPT",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Apache Kylin",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Environnement de développement dans le cloud",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Cloud first",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Internal Developer Platform",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Domain Centric Architecture",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Knowledge graph",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "Eco conception ",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "GitHub Copilot",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+  {
+    "name": "DataMesh",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "this is a description"
+  },
+]
